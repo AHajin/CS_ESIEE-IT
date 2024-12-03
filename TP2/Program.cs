@@ -2,7 +2,6 @@
 
 using ex1;
 using ex2;
-using Delegate = ex2.Delegate;
 
 Console.WriteLine("Hello, World!");
 
