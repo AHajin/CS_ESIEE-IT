@@ -1,0 +1,14 @@
+D:\dev\cours\ex1\ex2\bin\Debug\net9.0\ex2.exe
+D:\dev\cours\ex1\ex2\bin\Debug\net9.0\ex2.deps.json
+D:\dev\cours\ex1\ex2\bin\Debug\net9.0\ex2.runtimeconfig.json
+D:\dev\cours\ex1\ex2\bin\Debug\net9.0\ex2.dll
+D:\dev\cours\ex1\ex2\bin\Debug\net9.0\ex2.pdb
+D:\dev\cours\ex1\ex2\obj\Debug\net9.0\ex2.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\cours\ex1\ex2\obj\Debug\net9.0\ex2.AssemblyInfoInputs.cache
+D:\dev\cours\ex1\ex2\obj\Debug\net9.0\ex2.AssemblyInfo.cs
+D:\dev\cours\ex1\ex2\obj\Debug\net9.0\ex2.csproj.CoreCompileInputs.cache
+D:\dev\cours\ex1\ex2\obj\Debug\net9.0\ex2.dll
+D:\dev\cours\ex1\ex2\obj\Debug\net9.0\refint\ex2.dll
+D:\dev\cours\ex1\ex2\obj\Debug\net9.0\ex2.pdb
+D:\dev\cours\ex1\ex2\obj\Debug\net9.0\ex2.genruntimeconfig.cache
+D:\dev\cours\ex1\ex2\obj\Debug\net9.0\ref\ex2.dll
