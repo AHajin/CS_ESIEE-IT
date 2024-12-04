@@ -1,0 +1,15 @@
+D:\dev\cours\ex1\CS_ESIEE-IT\TP2\bin\Debug\net9.0\TP2.exe
+D:\dev\cours\ex1\CS_ESIEE-IT\TP2\bin\Debug\net9.0\TP2.deps.json
+D:\dev\cours\ex1\CS_ESIEE-IT\TP2\bin\Debug\net9.0\TP2.runtimeconfig.json
+D:\dev\cours\ex1\CS_ESIEE-IT\TP2\bin\Debug\net9.0\TP2.dll
+D:\dev\cours\ex1\CS_ESIEE-IT\TP2\bin\Debug\net9.0\TP2.pdb
+D:\dev\cours\ex1\CS_ESIEE-IT\TP2\obj\Debug\net9.0\TP2.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\cours\ex1\CS_ESIEE-IT\TP2\obj\Debug\net9.0\TP2.AssemblyInfoInputs.cache
+D:\dev\cours\ex1\CS_ESIEE-IT\TP2\obj\Debug\net9.0\TP2.AssemblyInfo.cs
+D:\dev\cours\ex1\CS_ESIEE-IT\TP2\obj\Debug\net9.0\TP2.csproj.CoreCompileInputs.cache
+D:\dev\cours\ex1\CS_ESIEE-IT\TP2\obj\Debug\net9.0\TP2.sourcelink.json
+D:\dev\cours\ex1\CS_ESIEE-IT\TP2\obj\Debug\net9.0\TP2.dll
+D:\dev\cours\ex1\CS_ESIEE-IT\TP2\obj\Debug\net9.0\refint\TP2.dll
+D:\dev\cours\ex1\CS_ESIEE-IT\TP2\obj\Debug\net9.0\TP2.pdb
+D:\dev\cours\ex1\CS_ESIEE-IT\TP2\obj\Debug\net9.0\TP2.genruntimeconfig.cache
+D:\dev\cours\ex1\CS_ESIEE-IT\TP2\obj\Debug\net9.0\ref\TP2.dll

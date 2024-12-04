@@ -4,10 +4,10 @@ namespace ex2;
 
 public class Article: Publication
 {
-    protected string nom;
-    protected float  prix;
-    protected int quantite;
-    protected ArticleType type;
+    public string nom;
+    public float prix;
+    public int quantite;
+    public ArticleType type;
     
     
     /*
