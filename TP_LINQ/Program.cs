@@ -1,7 +1,9 @@
 ﻿// See https://aka.ms/new-console-template for more information
 
+using System.Text.Json;
 using ex1;
 using ex2;
+using TP_LINQ;
 
 List<Article> articles = new List<Article>()
 {
@@ -49,6 +51,8 @@ foreach (var article in articlesByType)
     Console.WriteLine(article);
 }
 
+Console.WriteLine("\n\nEtape2.3");
+
 List<Article> articlesNonSimplifie = new List<Article>()
 {
     new Article("Pomme",1.25f,240,ArticleType.ALIMENTAIRE),
@@ -63,5 +67,23 @@ var articlesSimplifies = articlesNonSimplifie.Select(article => new { article.no
 
 foreach (var article in articlesSimplifies)
 {
-    Console.WriteLine($" -> {article}");
+    Console.WriteLine($"{article}");
 }
+
+Console.WriteLine("\n\nEtape2.4");
+
+Extension.AfficherTous(articlesNonSimplifie);
+
+Func<Article, float> calculStock = article => article.prix * article.quantite;
+float stockValue = articles.Sum(calculStock);
+
+Console.WriteLine($"{stockValue}");
+
+Console.WriteLine("\n\nEtape2.5");
+
+const string fichier = "articles.json";
+string cheminFichier = Path.GetFullPath(fichier);
+
+string json = JsonSerializer.Serialize(articlesSimplifies);
+File.WriteAllText(cheminFichier, json);
+Console.WriteLine("JSON créé");
